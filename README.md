@@ -8,8 +8,7 @@
 
 Hayvanlari buradaki gibi Lions , Fly , Wild ,... gibi kategoriler altinda degerlendirecegim.
 ```public void class Lion:Animal
-   publice Lion(int x, int y, int z):base Animal(x,y,z) 
-{};
+   publice Lion(int x, int y, int z):base Animal(x,y,z) {};
 ```
 gibi kalitimlar yaptim cunku Aslanlar ile Animal parametreleri aynidir.
 fakat
@@ -19,4 +18,4 @@ Animal Sound() adli methodda kendisinin sesi yoktur fakat Animal'a ait olan ve A
 
 Override ornegi yapabilmek icin ToString() methoduna yaptim
 
-''' public override void ToString(){};```
+``` public override void ToString(){};```
