@@ -5,4 +5,4 @@
 /OOP'nin essential konularindan Polymorphism gibi konularda koduma entegre edilecektir.
 
 -Bu kod yerine yeni Hayvan_bilmece 2 adli repo acip erd diyagramina kadar cizip ne yapacagimi anlatacagim suan bu kod tamamen psuedo vasfi tasimaktadir.
-'''Console.WriteLine("Hello World")
+'''Console.WriteLine("Hello World")'''
